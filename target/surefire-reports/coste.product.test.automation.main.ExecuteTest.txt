@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: coste.product.test.automation.main.ExecuteTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.803 s - in coste.product.test.automation.main.ExecuteTest

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.345965">
+<testcase classname="Realizar Busca Avançada" name="REALIZAR BUSCA AVANÇADA" time="20.345965">
+<system-out><![CDATA[Dado que o usuario esteja na tela principal do site WEBMOTORS...............passed
+Quando sao informados as opcoes de busca....................................passed
+Entao sera possivel validar o retorno da pesquisa...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
